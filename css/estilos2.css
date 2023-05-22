@@ -518,14 +518,8 @@ footer{
     }
     
 .cards25{
-    background: #004428;
-    display: flex;
-    width: 46%;
-    height: 200px;
-    align-items: center;
-    justify-content: space-evenly;
-    border-radius: 5px;
-    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
-    box-sizing: border-box;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1200px;
 }
 }
