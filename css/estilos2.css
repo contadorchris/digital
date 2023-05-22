@@ -516,4 +516,9 @@ footer{
     .titulo-final{
         font-size: 20px;
     }
+    
+.cards25{
+    display: flex;
+    justify-content: space-evenly;
+}
 }
