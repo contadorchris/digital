@@ -547,3 +547,9 @@ footer{
 .my-float{
 	margin-top:16px;
 }
+
+.center{
+ margin: 0 auto;
+ width: 300px;
+ display: block;
+}
